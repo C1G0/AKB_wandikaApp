@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_3"
+    tools:context=".page_galleryFragment">
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:src="@drawable/logo_2" />
+
+    </FrameLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/space">
+    </View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:orientation="vertical">
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:columnCount="2"
+            android:rowCount="3">
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="210dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/me" />
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="210dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/me_2" />
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="210dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/towa" />
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="210dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/me_4" />
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="210dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/me_5" />
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="210dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/idol" />
+
+        </GridLayout>
+    </LinearLayout>
+
+</LinearLayout>

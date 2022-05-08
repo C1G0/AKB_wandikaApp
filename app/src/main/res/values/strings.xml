@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">wandikaApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //View Pager
+    <string name="welcome">Selamat Datang di Wandika App</string>
+    <string name="gunakan_navbar">Gunakan Menu Navigasi di bawah layar untuk berjelajah didalam aplikasi</string>
+    <string name="selamat">Selamat Berjelajah!</string>
+    <string name="lanjut">Lanjutkan</string>
+
+    //Home Page
+    <string name="card_title_saya">Tentang Saya</string>
+    <string name="text_content_saya">Nama saya Moch. Wandika Yusgiar. Saya biasa dipanggil Yus atau Giar. Saya adalah mahasiswa Teknik Informatika di Universitas Komputer Indonesia.</string>
+    <string name="card_title_hobby">Hobby and Interest</string>
+    <string name="text_content_hobby">Hobby saya adalah bermain game dan mendengarkan musik.</string>
+    <string name="card_title_makes">Makanan Kesukaan</string>
+    <string name="text_content_makes">Ayam Goreng</string>
+    <string name="card_title_mikes">Minuman Kesukaan</string>
+    <string name="text_content1_mikes">Air Putih</string>
+    <string name="text_content2_mikes">(when you know, you know)</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+
+    //Activity
+    <string name="daily_atc">Daily Activity</string>
+
+    //Favorite
+    <string name="calli">Mori Calliope</string>
+    <string name="calli_end">End of A Life</string>
+    <string name="calli_night">Cursed Night</string>
+    <string name="paramore">Paramore</string>
+    <string name="para_still">Still Into You</string>
+    <string name="para_only">The Only Exception</string>
+    <string name="bmth">Bring Me The Horizon</string>
+    <string name="bmth_shadow">Shadow Moses</string>
+    <string name="bmth_sleep">Sleepwalking</string>
+    <string name="bigbang">BIGBANG</string>
+    <string name="bb_if">IF YOU</string>
+    <string name="bb_fi">FXXK IT</string>
+    <string name="aimer">Aimer</string>
+    <string name="aimer_zankyou">Zankyou Sanka</string>
+    <string name="aimer_polaris">Polaris</string>
+    <string name="aimer_rain">Ref:rain</string>
+    <string name="brian">Rich Brian</string>
+    <string name="brian_drive">Drive Safe</string>
+    <string name="brian_100">100 Degrees</string>
+    <string name="yoasobi">Yoasobi</string>
+    <string name="yoasobi_tabun">Tabun</string>
+
+    //About
+    <string name="contactme">Contact Me</string>
+    <string name="nohp">082118439215</string>
+    <string name="email">wandikayusgiar@gmail.com</string>
+    <string name="app_info">App Info</string>
+    <string name="version">Version 1.0</string>
+
+</resources>
